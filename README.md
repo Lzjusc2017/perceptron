@@ -10,6 +10,15 @@ Realize license plate data classification
 <hr>
 <br>
 
+# 关于环境
+
+开发工具:pycharm
+开发环境:win10
+
+<br>
+<hr>
+<br>
+
 
 # 关于数据集
 
@@ -66,6 +75,7 @@ v1.0
 <br>
 <hr>
 <br>
+
 # 关于未来
 
 本文车牌数据集目前支持20x20，有许多缺陷，未来的更新方向包括
