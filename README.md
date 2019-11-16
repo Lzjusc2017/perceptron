@@ -64,6 +64,13 @@ Realize license plate data classification
 <hr>
 <br>
 
+# 关于运行结果
+
+![avater](http://chuantu.xyz/t6/703/1573896458x977013264.jpg)
+
+<br>
+<hr>
+<br>
 
 # 关于版本
 
