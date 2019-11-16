@@ -66,7 +66,8 @@ Realize license plate data classification
 
 # 关于运行结果
 
-![avater](http://chuantu.xyz/t6/703/1573896458x977013264.jpg)
+### 使用LeNet5实现车牌20x20的识别
+![avater](Results/LeNet5_Plate_20x20_0_9.jpg)
 
 <br>
 <hr>
