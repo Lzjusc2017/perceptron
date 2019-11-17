@@ -50,15 +50,31 @@ Realize license plate data classification
 
 # 关于文件
 
+### First-stage
 
 | 文件 | 说明 | 
 | :-----| ----: |
-| Train | 车牌训练集 | 
-| Test | 车牌测试集 | 
 | nnMNIST | LeNet实现手写数字识别 | 
 | nnPlate | LeNet实现车牌识别 | 
 | pcMNIST | 实现手写数字识别 | 
 | pcPlate | 实现车牌识别 | 
+
+
+<br>
+
+### Second-stage
+
+
+
+| 文件 | 说明 | 
+| :-----| ----: |
+| splitPlate | 分割车牌成20x20 | 
+
+<br>
+
+### 车牌说明
+
+![avater](Results/A01_N84E28_0.jpg)
 
 <br>
 <hr>
