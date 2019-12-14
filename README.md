@@ -69,6 +69,10 @@ Realize license plate data classification
 | 文件 | 说明 | 
 | :-----| ----: |
 | splitPlate | 分割车牌成20x20 | 
+| addData   |  车牌数据拓展 | 
+| rnn   |  RNN循环神经网络 | 
+| pltPlate   |  感知机实现车牌字母识别 | 
+| plot_model   |  神经网络可视化 | 
 
 <br>
 
@@ -85,6 +89,15 @@ Realize license plate data classification
 ### 使用LeNet5实现车牌20x20的识别
 ![avater](Results/LeNet5_Plate_20x20_0_9.jpg)
 
+<br>
+
+### 人脸卷积可视化
+
+![QRgECV.png](https://s2.ax1x.com/2019/12/14/QRgECV.png)
+
+<br>
+
+![QRglU1.png](https://s2.ax1x.com/2019/12/14/QRglU1.png)
 <br>
 <hr>
 <br>
